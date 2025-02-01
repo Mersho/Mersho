@@ -3,9 +3,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 32 mins             ████████████████░░░░░░░░░   64.58 % 
+YAML                     17 mins             █████████░░░░░░░░░░░░░░░░   35.23 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 
- Last Updated on 31/01/2025 09:13:45 UTC
+ Last Updated on 01/02/2025 00:39:48 UTC
 <!--END_SECTION:waka-->
