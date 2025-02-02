@@ -3,11 +3,13 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 32 mins             ████████████████░░░░░░░░░   64.58 % 
-YAML                     17 mins             █████████░░░░░░░░░░░░░░░░   35.23 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TypeScript               1 hr 32 mins        ███████████████░░░░░░░░░░   61.16 % 
+Markdown                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+YAML                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 
- Last Updated on 01/02/2025 00:39:48 UTC
+ Last Updated on 02/02/2025 00:39:28 UTC
 <!--END_SECTION:waka-->
