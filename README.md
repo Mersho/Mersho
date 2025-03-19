@@ -3,13 +3,13 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               19 hrs 22 mins      ██████████████████░░░░░░░   71.03 % 
-Python                   2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Text                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Prisma                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               17 hrs 55 mins      ██████████████████░░░░░░░   71.64 % 
+Python                   2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Text                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 
- Last Updated on 18/03/2025 00:39:36 UTC
+ Last Updated on 19/03/2025 00:40:08 UTC
 <!--END_SECTION:waka-->
